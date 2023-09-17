@@ -1,0 +1,13 @@
+Teacher@gmail.com | Andrey | Prokoviev | Student@gmail.com | Vladislav | Fridzon | 20,5
+Teacher_new@gmail.com | Artem | Vavilov | Student@gmail.com | Vladislav | Fridzon | 92,1
+Teacher2@gmail.com | Maria | Petrova | Student2@gmail.com | Ivan | Ivanov | 75,4
+Teacher3@gmail.com | Elena | Sidorova | Student3@gmail.com | Sergey | Smirnov | 88,9
+Instructor@gmail.com | Olga | Kuznetsova | Learner@gmail.com | Dmitri | Sokolov | 62,7
+Prof4@gmail.com | Ivan | Volkov | Pupil@gmail.com | Ekaterina | Kovalenko | 45,3
+Tutor5@gmail.com | Natalia | Morozova | Scholar@gmail.com | Alexey | Ivanov | 79,8
+Educator6@gmail.com | Anna | Mikhailova | Apprentice@gmail.com | Pavel | Petrov | 94,5
+Mentor7@gmail.com | Dmitry | Fedorov | Trainee@gmail.com | Maria | Smirnova | 71,2
+Coach8@gmail.com | Tatiana | Voronova | Trainee2@gmail.com | Anton | Kozlov | 88
+Professor9@gmail.com | Evgeny | Popov | Learner2@gmail.com | Irina | Svetlova | 55,6
+Teacher10@gmail.com | Ekaterina | Ivanova | Student10@gmail.com | Sergey | Kuznetsov | 82,3
+MaxVerstappen@gmail.com | Max | Verstappen | YukiTsunoda@gmail.com | Yuki | Tsunoda | 43,4

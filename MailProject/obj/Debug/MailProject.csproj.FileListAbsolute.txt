@@ -1,0 +1,8 @@
+C:\Users\Professional\source\repos\lessons_csharp\MailProject\MailProject\bin\Debug\MailProject.exe.config
+C:\Users\Professional\source\repos\lessons_csharp\MailProject\MailProject\bin\Debug\MailProject.exe
+C:\Users\Professional\source\repos\lessons_csharp\MailProject\MailProject\bin\Debug\MailProject.pdb
+C:\Users\Professional\source\repos\lessons_csharp\MailProject\MailProject\obj\Debug\MailProject.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\lessons_csharp\MailProject\MailProject\obj\Debug\MailProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professional\source\repos\lessons_csharp\MailProject\MailProject\obj\Debug\MailProject.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\lessons_csharp\MailProject\MailProject\obj\Debug\MailProject.exe
+C:\Users\Professional\source\repos\lessons_csharp\MailProject\MailProject\obj\Debug\MailProject.pdb
